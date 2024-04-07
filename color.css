@@ -1,0 +1,20 @@
+:root {
+    --primary: #8ab4f8;
+
+    --background: #000000;
+    --box1: #101010;
+    --box2: #202020;
+    --box3: #303030;
+    --box4: #404040;
+    --box5: #505050;
+
+    --foreground1: #ffffff;
+    --foreground2: #eeeeee;
+    --foreground3: #dddddd;
+    --foreground4: #cccccc;
+    --foreground5: #bbbbbb;
+    --foreground6: #aaaaaa;
+    --foreground7: #909090;
+    --foreground8: #808080;
+    --foreground9: #707070;
+}
